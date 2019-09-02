@@ -59,6 +59,15 @@ namespace Shipment_Warning_System
                 connLabel7, connLabel8, connLabel9, connLabel10, connLabel11, connLabel12, connLabel13, connLabel14,
                 connLabel15, connLabel16, connLabel17, connLabel18, connLabel19, connLabel20  , connLabel21  , connLabel22,
                 connLabel23, connLabel24, connLabel25, connLabel26};
+            try
+            {
+                pictureBox1.BackgroundImage = Image.FromFile(Properties.Settings.Default.layoutPath);
+            }
+            catch
+            {
+                MessageBox.Show("Layout Yüklenemedi!");
+            }
+            
 
             for (int i = 0; i < lines.Length; i++)
             {
