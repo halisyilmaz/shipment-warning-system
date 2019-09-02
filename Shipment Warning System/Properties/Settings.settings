@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="YazakiShipmentWarningSystem.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="layoutPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Halis\source\Fabrika Layout\factory_layout.png</Value>
+    </Setting>
+    <Setting Name="lineName" Type="System.String[]" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;2&lt;/string&gt;
+  &lt;string&gt;3&lt;/string&gt;
+  &lt;string&gt;4&lt;/string&gt;
+  &lt;string&gt;5&lt;/string&gt;
+  &lt;string&gt;6&lt;/string&gt;
+  &lt;string&gt;7&lt;/string&gt;
+  &lt;string&gt;8&lt;/string&gt;
+  &lt;string&gt;9&lt;/string&gt;
+  &lt;string&gt;10&lt;/string&gt;
+  &lt;string&gt;11&lt;/string&gt;
+  &lt;string&gt;12&lt;/string&gt;
+  &lt;string&gt;13&lt;/string&gt;
+  &lt;string&gt;14&lt;/string&gt;
+  &lt;string&gt;15&lt;/string&gt;
+  &lt;string&gt;16&lt;/string&gt;
+  &lt;string&gt;17&lt;/string&gt;
+  &lt;string&gt;18&lt;/string&gt;
+  &lt;string&gt;19&lt;/string&gt;
+  &lt;string&gt;20&lt;/string&gt;
+  &lt;string&gt;21&lt;/string&gt;
+  &lt;string&gt;22&lt;/string&gt;
+  &lt;string&gt;23&lt;/string&gt;
+  &lt;string&gt;24&lt;/string&gt;
+  &lt;string&gt;25&lt;/string&gt;
+  &lt;string&gt;26&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="lineIP" Type="System.String[]" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;1&lt;/string&gt;
+  &lt;string&gt;2&lt;/string&gt;
+  &lt;string&gt;3&lt;/string&gt;
+  &lt;string&gt;4&lt;/string&gt;
+  &lt;string&gt;5&lt;/string&gt;
+  &lt;string&gt;6&lt;/string&gt;
+  &lt;string&gt;7&lt;/string&gt;
+  &lt;string&gt;8&lt;/string&gt;
+  &lt;string&gt;9&lt;/string&gt;
+  &lt;string&gt;10&lt;/string&gt;
+  &lt;string&gt;11&lt;/string&gt;
+  &lt;string&gt;12&lt;/string&gt;
+  &lt;string&gt;13&lt;/string&gt;
+  &lt;string&gt;14&lt;/string&gt;
+  &lt;string&gt;15&lt;/string&gt;
+  &lt;string&gt;16&lt;/string&gt;
+  &lt;string&gt;17&lt;/string&gt;
+  &lt;string&gt;18&lt;/string&gt;
+  &lt;string&gt;19&lt;/string&gt;
+  &lt;string&gt;20&lt;/string&gt;
+  &lt;string&gt;21&lt;/string&gt;
+  &lt;string&gt;22&lt;/string&gt;
+  &lt;string&gt;23&lt;/string&gt;
+  &lt;string&gt;24&lt;/string&gt;
+  &lt;string&gt;25&lt;/string&gt;
+  &lt;string&gt;26&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
